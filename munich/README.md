@@ -1,9 +1,8 @@
-# Moose Office Map 
+# WorkAdventure Map Starter Kit
 
-[WorkAdventure](https://workadventu.re) map with (hopefully soon) all Rapid7 offices :-)
+This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
-
-## If you want to contribute
+## Tools you will need
 
 In order to build your own map for WorkAdventure, you need:
 
