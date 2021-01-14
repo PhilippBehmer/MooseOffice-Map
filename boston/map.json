@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/moose-world\/map.json"
+                 "value":"..\/moose-world\/map.json#start_boston"
                 }],
          "type":"tilelayer",
          "visible":true,

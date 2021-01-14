@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/moose-world\/map.json"
+                 "value":"..\/moose-world\/map.json#start_school"
                 }],
          "type":"tilelayer",
          "visible":true,

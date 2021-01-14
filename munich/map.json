@@ -97,7 +97,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/moose-world\/map.json#front_of_office"
+                 "value":"..\/moose-world\/map.json#start_munich"
                 }],
          "type":"tilelayer",
          "visible":true,
