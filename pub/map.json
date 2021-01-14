@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/corridor-map\/map.json"
+                 "value":"..\/moose-world\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
