@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json#front_of_office"
+                 "value":"..\/moose-world\/map.json#front_of_office"
                 }],
          "type":"tilelayer",
          "visible":true,
