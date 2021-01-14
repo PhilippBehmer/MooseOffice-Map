@@ -838,8 +838,22 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "chunks":[],
+         "height":0,
+         "id":37,
+         "name":"override",
+         "opacity":1,
+         "startx":0,
+         "starty":0,
+         "type":"tilelayer",
+         "visible":true,
+         "width":0,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":37,
+ "nextlayerid":38,
  "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
