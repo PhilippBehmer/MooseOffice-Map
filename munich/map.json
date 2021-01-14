@@ -39,6 +39,12 @@
          "id":17,
          "name":"website_skribbl",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/skribbl.io\/?8Z7gDFqS0xNZ"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
