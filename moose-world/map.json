@@ -293,6 +293,17 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":36,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":4,
          "layers":[
                 {
@@ -827,17 +838,6 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":36,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
         }],
  "nextlayerid":37,
  "nextobjectid":4,
@@ -847,24 +847,74 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":8,
          "firstgid":1,
-         "source":"..\/tilesets\/fantasy.tsx"
+         "image":"..\/tilesets\/fantasy.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy",
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":2,
          "firstgid":1065,
-         "source":"..\/tilesets\/pancartes.tsx"
+         "image":"..\/tilesets\/pancartes.png",
+         "imageheight":352,
+         "imagewidth":64,
+         "margin":0,
+         "name":"pancartes",
+         "spacing":0,
+         "tilecount":22,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#003039"
         }, 
         {
+         "columns":12,
          "firstgid":1087,
-         "source":"..\/tilesets\/big_mooose.tsx"
+         "image":"..\/tilesets\/big_mooose.png",
+         "imageheight":320,
+         "imagewidth":410,
+         "margin":0,
+         "name":"big_mooose",
+         "spacing":0,
+         "tilecount":120,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":6,
          "firstgid":1207,
-         "source":"..\/tilesets\/rsz_rapid7-logo-black-orange.tsx"
+         "image":"..\/tilesets\/rsz_rapid7-logo-black-orange.png",
+         "imageheight":32,
+         "imagewidth":196,
+         "margin":0,
+         "name":"rsz_rapid7-logo-black-orange",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":64,
          "firstgid":1213,
-         "source":"..\/tilesets\/water.tsx"
+         "image":"..\/tilesets\/water.png",
+         "imageheight":1536,
+         "imagewidth":2048,
+         "margin":0,
+         "name":"water",
+         "spacing":0,
+         "tilecount":3072,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
